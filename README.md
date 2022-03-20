@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Shehroz Wali Khan
+- 👋 Hi, I’m Muhammad Shehroz Wali Khan. This is my second profile with very less contribution but hoping to make 2022 a year of big contributions on github.
 - 👀 I’m interested in Web Development using JS Frameworks. I have worked on .NET Core, Flask and PHP too....
 - Python, MERN Stack, Blockchain Solidity and Smart Contracts, SEM
 - 🌱 I’m currently learning Angular

@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Muhammad Shehroz Wali Khan. This is my second profile with very less contribution but hoping to make 2022 a year of big contributions on github.
-- 👀 I’m interested in Web Development using JS Frameworks. I have worked on .NET Core, Flask and PHP too....
+- 👋 Hi, I’m Muhammad Shehroz Wali Khan.  I have worked on the product development of many enterprise level projects and used tech React, Angular,Node, .NET Core, Flask and PHP too....
 - Python, MERN Stack, Blockchain Solidity and Smart Contracts, SEM
+- Azure Data Engineer Certified Associate (DP-203)
+- MERN, MEAN and .NET Core + Angular Developer.
 - Developed Chat Bots, ML projects.
 - Worked on YoloV3, LSTM, ANNs...
-- 🌱 I’m currently learning Angular
 - 📫 How to reach me 
 Email: mswkhan27@gmail.com
 

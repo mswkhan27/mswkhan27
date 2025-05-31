@@ -63,18 +63,21 @@
 ---
 
 ### 📌 Featured Projects
-
+  
 - **FaultLocalizer 2.0**  
   Enhanced Python fault localization using spectrum analysis.  
   `Thesis-based research tool for software diagnostics.`
 
 - **VPI Compounding Portal**  
   MERN stack-based e-prescription tool integrated with AWS services.  
-  `OCR-enabled verification for US-based firms.`
+  `Online Pharmacy Portal used actively by 50+ Clinics in the United States.
 
 - **PartnerLinQ Web App**  
   Enterprise data migration and ERP integration with custom UI libraries.  
   `Used by major brands like New Balance & Marks & Spencer.`
+
+  - **Multi-Agents Based System for Effective Metamorphic Testing**
+ Python-Based Agentic AI Framework for MT.
 
 ---
 

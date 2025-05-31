@@ -22,7 +22,7 @@
 - 🛠️ Tech Stack: `Python`, `JavaScript/TypeScript`, `React`, `Angular`, `Node.js`, `.NET Core`, `Flask`, `PHP`.
 - ☁️ Cloud Expertise: `Azure`, `AWS`, `GCP` – Certified **Azure Data Engineer Associate (DP-203)**.
 - 🧪 Research Interests: Model-Based Testing, Spectrum Analysis, Fault Localization.
-- 🧠 Worked on AI/ML models including `YOLOv3`, `LSTM`, and other `ANNs`.
+- 🧠 Worked on LLMs and AI/ML models including  `GPT`, `Mistral`, `YOLOv3`, `LSTM`, and other `ANNs`.
 - 🤖 Built advanced ML-based chatbots, OCR systems, and automation tools.
 
 ---

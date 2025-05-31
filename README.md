@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Shehroz Wali Khan.  I have worked on the product development of many enterprise level projects and used tech React, Angular,Node, .NET Core, Flask and PHP too....
-- Python, MERN Stack, Blockchain Solidity and Smart Contracts, SEM
+- Python, MERN Stack, Blockchain Solidity and Smart Contracts, Rust.
 - Azure Data Engineer Certified Associate (DP-203)
 - MERN, MEAN and .NET Core + Angular Developer.
 - Developed Chat Bots, ML projects.

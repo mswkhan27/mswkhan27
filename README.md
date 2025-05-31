@@ -78,6 +78,21 @@
 
 ---
 
+### 📚 Publications
+
+- **Visual Spectrum-Based Fault Localization for Python Programs Based on the Differentiation of Execution Slices**  
+  *2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW 2025)*  
+  DOI: [10.1109/ICSTW64639.2025.10962473](https://doi.org/10.1109/ICSTW64639.2025.10962473)  
+  Co-authors: G. Sudheerbabu, B.E. Staicu, T. Ahmad, D. Truscan  
+  A novel fault localization technique leveraging execution slice differentiation to enhance debugging accuracy in Python programs.
+
+- **Localizer: A Visual Debugging Assistant for Python Programs**  
+  *Proceedings of the 2nd ACM International Workshop on Future Debugging Techniques (DEBT 2024)*  
+  DOI: [10.1145/3678720.3685321](https://doi.org/10.1145/3678720.3685321)  
+  Co-authors: G.C. Sudheerbabu, D. Truscan, T. Ahmad  
+  Introduces the Localizer tool which assists developers by combining program slicing and spectra analysis to visually pinpoint suspicious code areas, facilitating efficient debugging.
+
+
 ### 📫 Get in Touch
 
 - 📧 Email: [mswkhan27@gmail.com](mailto:mswkhan27@gmail.com)

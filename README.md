@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/shehrozwalikhan/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-Shehroz%20Wali%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://orcid.org/0009-0001-1240-3777" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0001--1240--3777-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
+  </a>
 </p>
 
 ---
